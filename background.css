@@ -1,0 +1,23 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    background-image: linear-gradient(to right, red , yellow);
+    font-family: 'Anton', sans-serif;
+    letter-spacing: 2px;
+}
+
+h1{
+    font-family: 'Anton', sans-serif;
+    font-size: 60px;
+    color: #2C3E50 ;
+    letter-spacing: 14px;
+    margin-top: 22px;
+
+}
+h2{
+    font-family: 'Anton', sans-serif;
+    font-size: 30px;
+    letter-spacing: 5px;
+    color: black ;
+}
